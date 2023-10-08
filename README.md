@@ -1,4 +1,9 @@
-# Getting Started with Create React App
+# 
+In this assignment basically, i stored some API calls in a tebur
+lar UI/webpage. fetch API using async and wait until data is not completelly derived using await.
+
+if you have idea to make more attractive UI regarding this please suggest me 
+Thank you 
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
@@ -68,3 +73,8 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+
+Thank You
+
+Mintu Kumar
